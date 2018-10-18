@@ -1,12 +1,11 @@
 {
-    "name": "2amigos/yii2-usuario",
+    "name": "ffsoft/yii2-user",
     "description": "Highly customizable and extensible user management, authentication, and authorization Yii2 extension",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/2amigos/yii2-usuario/issues?state=open",
-        "forum": "https://gitter.im/2amigos/yii2-usuario",
-        "source": "https://github.com/2amigos/yii2-usuario"
+        "issues": "https://github.com/ffsoft/yii2-user/issues",
+        "source": "https://github.com/ffsoft/yii2-user"
     },
     "keywords": [
         "2amigos",
@@ -40,6 +39,12 @@
             "name": "Timur Ruziev",
             "email": "resurtm@2amigos.us",
             "homepage": "http://resurtm.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Slava Kryvel",
+            "email": "kryvel@ffsoft.cz",
+            "homepage": "https://ffsoft.cz",
             "role": "Developer"
         }
     ],
